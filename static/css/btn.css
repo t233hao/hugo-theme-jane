@@ -1,0 +1,22 @@
+.btn--default:hover {
+    color: #738691 !important;
+    border: 1px solid #738691;
+}
+.btn:active, .btn:focus, .btn:hover {
+    text-decoration: none;
+}
+.btn--default {
+    color: #9eabb3 !important;
+    border: 1px solid #9eabb3;
+}
+.btn {
+    width: auto;
+    height: auto;
+    background: #fff;
+    border-radius: 5px;
+    padding: 3px 6px;
+    margin: 0;
+    letter-spacing: .01em;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
